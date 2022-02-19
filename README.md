@@ -4,7 +4,7 @@
 <li>💻Full Stack Developer - Entry level</li> 
 <li>🎓Systems Development</li>
 <li> Languages: PT-BR (fluent) / EN (Intermediary)</li> 
-<li> Brazil - São Paulo, 26 years old </li>
+<li> 26 years old, Brazil - São Paulo </li>
 </ul>
 
 ## Skills
