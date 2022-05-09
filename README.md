@@ -1,7 +1,7 @@
 ## Hello, I am Victor Muraki (OPEN TO WORK 🔓)
 
 <ul style="list-style: none;">
-<li>💻Full Stack Developer - Entry level</li> 
+<li>💻Front-end Developer - Entry level</li> 
 <li>🎓Systems Development</li>
 <li> Languages: PT-BR (fluent) / EN (Intermediary)</li> 
 <li> 26 years old, Brazil - São Paulo </li>
